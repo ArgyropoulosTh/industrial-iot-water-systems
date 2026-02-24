@@ -74,13 +74,14 @@ This ensured cohesive product architectures suitable for real-world deployment.
 
 ---
 
-### 🔌 PCB Ergonomic & Sensor-Driven Layout (Consulting Role)
+###  PCB Ergonomic & Sensor-Driven Layout 
 
 Provided mechanical consulting to guide PCB layout and component placement based on:
 
 * internal sensor positioning
 * enclosure constraints
 * cable routing and assembly flow
+* antenna interference 
   
 **Impact:**
 
@@ -92,7 +93,7 @@ Provided mechanical consulting to guide PCB layout and component placement based
 
 ---
 
-### ✅ Verification & Validation
+###  Verification & Validation
 
 Developed and executed validation activities including:
 
@@ -103,7 +104,7 @@ Developed and executed validation activities including:
 
 ---
 
-## 📊 Engineering Impact
+##  Engineering Impact
 
 * Delivered manufacturable IoT hardware designs
 * Improved cross-disciplinary integration workflows
