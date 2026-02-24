@@ -37,7 +37,7 @@ My role spans concept development through validation, with strong emphasis on de
 * Supported IP-rated design approaches (IP68)
 
 
-![Device](assets/images/Assembly_GS.jpg).
+![Device](assets/images/Assembly_.jpg).
 ![Device](assets/images/GS_Gully.jpg).
 
 ---
