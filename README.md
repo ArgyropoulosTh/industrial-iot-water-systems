@@ -24,6 +24,7 @@ My role spans concept development through validation, with strong emphasis on de
 * Optimize designs for scalable manufacturing
 * Support system integration across mechanical, electrical, and software domains
 * Develop validation protocols and technical documentation
+* Write technical documents, BOMS, manage supply chain
 
 ---
 
