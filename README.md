@@ -36,8 +36,9 @@ My role spans concept development through validation, with strong emphasis on de
 * Balanced structural integrity with manufacturability
 * Supported IP-rated design approaches (IP68)
 
-🖼 *Add: enclosure renders or prototypes (if shareable)*
-![Device enclosure](assets/images/iot-enclosure.jpg)
+
+![Device](assets/images/Assembly_GS.jpg).
+![Device](assets/images/GS_Gully.jpg).
 
 ---
 
@@ -87,8 +88,6 @@ Provided mechanical consulting to guide PCB layout and component placement based
 * supported more robust assembly workflows
 * enhanced overall product ergonomics
 
-🖼 *Add: internal layout diagram if allowed*
-![Internal layout](assets/images/iot-internal-layout.jpg)
 
 ---
 
