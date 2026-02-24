@@ -3,7 +3,7 @@
 Industrial IoT hardware systems designed for reliable environmental monitoring and smart water management under harsh operating conditions.
 
 **Role:** Mechanical & Product Engineer
-**Company:** IreckonCity B.V
+**Company:** IreckonCity B.V 
 **Status:** Ongoing (portfolio representation)
 **Domain:** Industrial IoT • Smart Infrastructure • Product Engineering
 
@@ -113,6 +113,6 @@ Developed and executed validation activities including:
 
 ## Confidentiality Note
 
-This repository presents a **sanitized portfolio representation** of work performed at IreckonCity B.V.
+This repository presents a **sanitized portfolio representation** of work performed at IreckonCity B.V. https://ireckoncity.com/
 
 ---
