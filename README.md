@@ -1,4 +1,4 @@
-# industrial-iot-water-systems
+# Industrial-IOT-Water-Systems
 
 Industrial IoT hardware systems designed for reliable environmental monitoring and smart water management under harsh operating conditions.
 
